@@ -34,7 +34,7 @@ int main(int argc, char const *argv[])
 
 	printf("%d\n",Area(s,p,q));
 	printf("%d\n",toleft(s,p,q));
-	printf("%bool\n",toleft(s,q,p));
+	printf("%d\n",toleft(s,q,p));
 	return 0;
 }
 #endif
